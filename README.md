@@ -46,3 +46,4 @@ Overall, the tool meets the requirement of being both secure and user-friendly, 
 
 *OUTPUT*:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0b0aa368-3c9a-4e43-a1de-6c1be546e12b" />
